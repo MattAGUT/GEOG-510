@@ -1,3 +1,5 @@
 # GEOG-510
 Course Website for GEOG510
-NEw Line
+New Line
+This is a test /n
+This is another test!
